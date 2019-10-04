@@ -20,20 +20,15 @@
 The notebook consists of a sequence of **cells**. A cell is a multiline text input field, and its contents can be executed by using **Shift-Enter**, or by clicking the **Run** button in the toolbar. You can **run all** the cells by clicking the **>>** button in the toolbar.
 
 After running the first cell (you will have to wait a few sencods to import all the packages) below the cell you should see the following text: **Using TensorFlow backend.**
-After running the second cell you should get the following list of pacakges and versions:
-           **['builtins',
-           'builtins',
-           'tensorflow',
+After running the second cell you should get the following list of pacakges and versions (among others):
+           **['tensorflow',
            '1.13.1',
            'keras',
            '2.2.4',
-           'matplotlib.pyplot',
            'numpy',
            '1.16.5',
            'pandas',
            '0.25.1',
-           'os',
-           'types',
            'matplotlib',
            '3.1.1']**
            
