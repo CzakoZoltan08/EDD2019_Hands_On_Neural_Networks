@@ -7,11 +7,11 @@
 3. After installing Anaconda, press the *Windows key*, type *anaconda prompt* and run it as *admin*
 4. In the *Anaconda Prompt* we will install the packages used in this tutorial. For this, type the following commands:
 
-  -*conda install tensorflow=1.13.1*
-  -*conda install keras=2.2.4*
-  -*conda install matplotlib=3.1.1*
-  -*conda install numpy=1.16.5*
-  -*conda install pandas=0.25.1*
+  - *conda install tensorflow=1.13.1*
+  - *conda install keras=2.2.4*
+  - *conda install matplotlib=3.1.1*
+  - *conda install numpy=1.16.5*
+  - *conda install pandas=0.25.1*
   
 5. Press the *Windows key*, type *jupyter notebook* and run the application. If everything works as expected, then a new browser tab will open automatically in which we can see the Jupyter Notebook running on the localhost
 6. Clone or download this repository
