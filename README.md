@@ -5,7 +5,7 @@
 1. Install **python 3.7.2** from here (bottom of the page, files section): https://www.python.org/downloads/release/python-372/
 2. Download and install **Anaconda** for **Windows** using **Python 3.7** version from here: https://www.anaconda.com/distribution/#download-section
 3. After installing Anaconda, press the **Windows key**, type **anaconda prompt** and run it as **admin**
-4. In the **Anaconda Prompt** we will install the packages used in this tutorial. For this, type the following commands:
+4. In the **Anaconda Prompt** we will install the packages used in this tutorial. For this, type the following commands (the order of the commands is also important):
 
     - **conda install pandas=0.25.1**
     - **conda install numpy=1.16.5**
